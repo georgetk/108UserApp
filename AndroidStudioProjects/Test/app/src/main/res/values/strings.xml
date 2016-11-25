@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="desc">img</string>
+    <string name="s1">AMBULANCE</string>
+    <string name="s2">TOUCH</string>
+    <string name="s3">FIRE ENGINE</string>
+    <string name="s4">TOUCH</string>
+    <string name="s5">POLICE</string>
+    <string name="s6">TOUCH</string>
+
+</resources>
